@@ -6,3 +6,5 @@ VirusTotal: https://www.virustotal.com/gui/file/1cbfe497c7f19276684d3dca679d535e
 I don't have a file to test and maybe it will help someone. So I'm sharing it. Run it in an isolated environment.
 
 Credit to: https://t.me/fb1hunt3rz for sharing the file
+
+<img src="https://raw.githubusercontent.com/DarkWebInformer/vect-ransomware-decryptor/refs/heads/main/telegram_post.png" alt="Decryptor">
